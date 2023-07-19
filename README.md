@@ -11,9 +11,12 @@
 
 ---
 
+![portada](https://res.cloudinary.com/dgp4xwknu/image/upload/v1689793748/Certificados/Iconos/Portada_r7btuz.png)
+
+---
+
 ### Sobre mí
-Hola 👋, mi nombre es Daniel es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Web, al principio lo hice de manera auto didacta, aprendiendo HTML5, CSS3 y JS, también realice proyectos con dichos lenguajes, pero quería aprender más, quería llegar a otro nivel, por lo que me apliqué al bootcamp de Henry en el cual aprendí mucho en muy poco tiempo, y la verdad estoy muy contento con mi avance.
-Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo, para poder vivir de lo que me gusta y fascina.
+Hola 👋, mi nombre es Daniel es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Movil, lo hago de manera auto didacta, aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo, para poder vivir de lo que me gusta y fascina.
 
 ---
 ---
@@ -34,7 +37,7 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
   </a>
 
    <a href="#">
-    <img src="https://res.cloudinary.com/dgp4xwknu/image/upload/v1689793300/Certificados/Iconos/Dart_oficial_v7fuxu.png" alt="Flutter" width="40" height="40"/>
+    <img src="https://res.cloudinary.com/dgp4xwknu/image/upload/v1689793318/Certificados/Iconos/Flutter_full_hd_qgcoim.png" alt="Flutter" width="40" height="40"/>
   </a>
  
  <!-- <a href="#">
