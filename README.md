@@ -16,7 +16,7 @@
 ---
 
 ### Sobre mí
-Hola 👋, mi nombre es Daniel es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Movil, lo hago de manera auto didacta, aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo, para poder vivir de lo que me gusta y fascina.
+Hola 👋, mi nombre es Daniel es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Movil, lo hago de manera auto didacta, aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo, para poder vivir de lo que me gusta y fascina. :smiley:
 
 ---
 ---
