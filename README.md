@@ -1,4 +1,7 @@
 
+<!-- Portada -->
+
+
 <!-- Portada opcional -->
 <!-- ![javascriptimage](https://user-images.githubusercontent.com/94265654/210689025-267fa54d-6584-411a-b3e8-400820fa24fe.gif) -->
 
@@ -24,6 +27,14 @@ Aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerl
  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+
+  <a href="#">
+    <img src="https://res.cloudinary.com/dgp4xwknu/image/upload/v1689793300/Certificados/Iconos/Dart_oficial_v7fuxu.png" alt="Dart" width="40" height="40"/>
+  </a>
+
+   <a href="#">
+    <img src="https://res.cloudinary.com/dgp4xwknu/image/upload/v1689793300/Certificados/Iconos/Dart_oficial_v7fuxu.png" alt="Flutter" width="40" height="40"/>
   </a>
  
  <!-- <a href="#">
