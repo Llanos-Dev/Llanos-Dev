@@ -17,7 +17,7 @@
 
 ## 👋 Sobre mí
 
-Soy un/a entusiasta de la **Ciencia de Datos** apasionado/a por convertir datos en información útil y modelos que aporten valor real. Me interesa el análisis exploratorio, la visualización, el machine learning y la comunicación clara de insights.
+Soy un entusiaste de la **Ciencia de Datos** apasionado por convertir datos en información útil y modelos que aporten valor real. Me interesa el análisis exploratorio, la visualización, el machine learning y la comunicación clara de insights.
 
 ### 🔍 ¿Qué hago?
 - Desarrollo modelos de **Machine Learning** para resolver problemas reales.  
