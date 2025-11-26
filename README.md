@@ -15,8 +15,27 @@
 
 ---
 
-### Sobre mí
-Hola 👋, mi nombre es Daniel es un placer que visites mi perfil, podes darle al follow ☺️ , me dedico al Desarrollo Movil, lo hago de manera auto didacta, aun me falta mucho por aprender y estoy dispuesto a poner todo de mi para hacerlo, para poder vivir de lo que me gusta y fascina. :smiley:
+## 👋 Sobre mí
+
+Soy un/a entusiasta de la **Ciencia de Datos** apasionado/a por convertir datos en información útil y modelos que aporten valor real. Me interesa el análisis exploratorio, la visualización, el machine learning y la comunicación clara de insights.
+
+### 🔍 ¿Qué hago?
+- Desarrollo modelos de **Machine Learning** para resolver problemas reales.  
+- Construyo **pipelines de datos** eficientes y reproducibles.  
+- Realizo **análisis estadístico** y generación de insights accionables.  
+- Trabajo con técnicas como **deep learning**, **NLP** o **series de tiempo** según el proyecto.  
+
+### 🛠️ Tecnologías y herramientas
+- **Python**: Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, TensorFlow/PyTorch  
+- **SQL**: PostgreSQL, MySQL  
+- **BI**: Power BI, Tableau  
+- **Git & GitHub**  
+- **Docker** (opcional)  
+- **Bash / Linux**  
+
+### 📚 En constante aprendizaje
+Siempre estoy explorando nuevas herramientas, metodologías y enfoques para mejorar mis capacidades en análisis de datos, ingeniería de datos y modelado predictivo.
+
 
 ---
 ---
